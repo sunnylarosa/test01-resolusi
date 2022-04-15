@@ -1,4 +1,7 @@
 Ini contoh file yang dibuat pada branch1. Nama file ini adalah file02.txt
 - Nambahin A
 - Nambahin B
-- Nambahin Z
+- Nambahin C_1
+- Nambahin C_2
+- Nambahin Z_1
+- Nambahin Z_2
