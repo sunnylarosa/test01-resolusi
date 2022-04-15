@@ -10,3 +10,5 @@ Ini contoh file yang dibuat pada branch1. Nama file ini adalah file02.txt
 
 - Cabang01: Tambah AA
 - Cabang01: Tambah AB
+- Cabang01: Tambah AC
+- Cabang01: Tambah AD
