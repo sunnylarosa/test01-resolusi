@@ -8,5 +8,11 @@ Ini contoh file yang dibuat pada branch1. Nama file ini adalah file02.txt
 - Nambahin Z_1
 - Nambahin Z_2
 
+- Cabang01: Tambah AA
+- Cabang01: Tambah AB
+- Cabang01: Tambah AC
+- Cabang01: Tambah AD
+
 - Cabang02: Tambah BA
 - Cabang02: Tambah BB
+
